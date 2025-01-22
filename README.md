@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Vashavi Shah</h1>
 <h3 align="center">Building Bridges Between Data and Decisions to Transform Complexity into Opportunity.</h3>
 
-<img align="right" alt="Coding" width="400" src="./coder.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/v20s/v20s/raw/main/coder.gif">
 
 - 👨‍💻 I’m currently working on **building an E-Commerce System.**
 
